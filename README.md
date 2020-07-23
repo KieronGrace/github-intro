@@ -1,2 +1,2 @@
 # github-intro
-I am just starting out in development. My goal is to become a front-end developer. I have a two year-old daughter.
+I am a budding web developer trying to learn as much as possible. I have student experience with html, css, JavaScript, Java, and some PHP. 
